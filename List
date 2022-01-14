@@ -1,0 +1,10 @@
+lrwxr-xr-x  1 root  wheel  69 Nov 24 11:36 /usr/local/bin/python3 -> ../../../Library/Frameworks/Python.framework/Versions/3.6/bin/python3
+lrwxr-xr-x  1 root  wheel  76 Nov 24 11:36 /usr/local/bin/python3-config -> ../../../Library/Frameworks/Python.framework/Versions/3.6/bin/python3-config
+lrwxr-xr-x  1 root  wheel  77 Nov 23 11:27 /usr/local/bin/python3-intel64 -> ../../../Library/Frameworks/Python.framework/Versions/3.9/bin/python3-intel64
+lrwxr-xr-x  1 root  wheel  71 Nov 24 11:36 /usr/local/bin/python3.6 -> ../../../Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6
+lrwxr-xr-x  1 root  wheel  78 Nov 24 11:36 /usr/local/bin/python3.6-config -> ../../../Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6-config
+lrwxr-xr-x  1 root  wheel  72 Nov 24 11:36 /usr/local/bin/python3.6m -> ../../../Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6m
+lrwxr-xr-x  1 root  wheel  79 Nov 24 11:36 /usr/local/bin/python3.6m-config -> ../../../Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6m-config
+lrwxr-xr-x  1 root  wheel  71 Nov 23 11:27 /usr/local/bin/python3.9 -> ../../../Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9
+lrwxr-xr-x  1 root  wheel  78 Nov 23 11:27 /usr/local/bin/python3.9-config -> ../../../Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9-config
+lrwxr-xr-x  1 root  wheel  79 Nov 23 11:27 /usr/local/bin/python3.9-intel64 -> ../../../Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9-intel64
